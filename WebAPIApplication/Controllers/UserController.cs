@@ -4,7 +4,7 @@ using WebAPIApplication.Services;
 
 namespace WebAPIApplication.Controllers
 {
-    [ApiController]
+    [ApiController]  
     [Route("api/[controller]")]
     public class UserController : Controller
     {
